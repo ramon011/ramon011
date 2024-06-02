@@ -11,7 +11,7 @@
 -  👦 Nome: Ramon Cruz
 - :bowtie: Idade: 20 anos
 - 🔭 ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
-- 👩‍💻 Desenvolvedor Back-end
+- 👩‍💻 Desenvolvedor Back-end/Front- End 
 - 🗺️ ATIBAIA, SP - Brasil
 
 
