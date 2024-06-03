@@ -8,10 +8,10 @@
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></picture> **Sobre mim:**
 
--  👦 Nome: Ramon Cruz
+-  👦🏻 Nome: Ramon Cruz
 - :bowtie: Idade: 20 anos
 - 🔭 ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
-- 👩‍💻 Desenvolvedor Back-end/Front- End 
+- 🧑🏻‍💻 Desenvolvedor Back-end/Front- End 
 - 🗺️ ATIBAIA, SP - Brasil
 
 
