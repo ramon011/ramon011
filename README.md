@@ -61,12 +61,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui você pode ver minhas estatísticas, lin
 
 ---
 
-### Contato
-
-- [LinkedIn](https://www.linkedin.com/in/ramon-silva-cruz)  
-- [Instagram](https://www.instagram.com/ramoncruztechia)  
-- [WhatsApp](https://wa.me/5511994002255)
-
  
 
 <hr>
