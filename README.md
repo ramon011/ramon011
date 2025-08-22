@@ -37,11 +37,7 @@
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-# Olá! Eu sou Ramon 👋
 
-Bem-vindo ao meu perfil do GitHub! Aqui você pode ver minhas estatísticas, linguagens mais usadas e contribuições recentes.
-
----
 
 ## 📊 Minhas Estatísticas do GitHub
 
@@ -53,13 +49,11 @@ Bem-vindo ao meu perfil do GitHub! Aqui você pode ver minhas estatísticas, lin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramon011&layout=compact&theme=dark)
 
----
 
 ## 📈 Atividade no GitHub
 
 ![Ramon's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramon011&theme=dark)
 
----
 
  
 
