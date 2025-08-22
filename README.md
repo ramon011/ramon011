@@ -37,21 +37,35 @@
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+# Olá! Eu sou Ramon 👋
 
-<picture>
-  <!-- Tema escuro -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ramon011&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <!-- Tema claro ou sem preferência -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ramon011&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <!-- Fallback -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ramon011&show_icons=true" />
-</picture>
+Bem-vindo ao meu perfil do GitHub! Aqui você pode ver minhas estatísticas, linguagens mais usadas e contribuições recentes.
+
+---
+
+## 📊 Minhas Estatísticas do GitHub
+
+![Ramon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramon011&show_icons=true&theme=dark)
+
+---
+
+## 🛠️ Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramon011&layout=compact&theme=dark)
+
+---
+
+## 📈 Atividade no GitHub
+
+![Ramon's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramon011&theme=dark)
+
+---
+
+### Contato
+
+- [LinkedIn](https://www.linkedin.com/in/ramon-silva-cruz)  
+- [Instagram](https://www.instagram.com/ramoncruztechia)  
+- [WhatsApp](https://wa.me/5511994002255)
 
  
 
