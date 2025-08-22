@@ -38,6 +38,20 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<picture>
+  <!-- Tema escuro -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ramon011&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- Tema claro ou sem preferência -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ramon011&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <!-- Fallback -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ramon011&show_icons=true" />
+</picture>
 
  
 
