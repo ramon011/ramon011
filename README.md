@@ -50,9 +50,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramon011&layout=compact&theme=dark)
 
 
-## 📈 Atividade no GitHub
 
-![Ramon's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramon011&theme=dark)
 
 
  
